@@ -1,0 +1,10 @@
+Package: hishaM
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: all
+Essential: no
+Maintainer: hisham
+Description: A Simple Python Script That Prints"hisham ali"
+
+
